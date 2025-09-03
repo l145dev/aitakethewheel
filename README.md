@@ -1,6 +1,6 @@
 # AI take the wheel (aitakethewheel)
 
-**AI Take The Wheel** is a web app that lets AI generate creative, uncommon web apps for you—instantly! Powered by [Groq](https://groq.com/) and OpenAI' "openai/gpt-oss-120b" model, this project demonstrates how AI can take over the wheel and build unique HTML/CSS web apps on demand.
+**AI Take The Wheel** is a web app that lets AI generate creative, uncommon web apps for you instantly! Powered by [Groq](https://groq.com/) and OpenAI's "openai/gpt-oss-120b" model, this project demonstrates how AI can take over the wheel and build unique HTML/CSS web apps on demand.
 
 ## ✨ Features
 
